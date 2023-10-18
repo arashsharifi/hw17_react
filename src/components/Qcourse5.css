@@ -1,0 +1,13 @@
+.container-hellow {
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+
+  background-color: #85e312;
+  border-radius: 2rem;
+  color: white;
+  padding: 1rem;
+  -webkit-box-shadow: 9px 11px 18px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 9px 11px 18px -1px rgba(0, 0, 0, 0.75);
+  box-shadow: 9px 11px 18px -1px rgba(0, 0, 0, 0.75);
+}
